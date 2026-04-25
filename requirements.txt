@@ -1,0 +1,4 @@
+flask
+python-aiml
+scikit-learn
+pyngrok
